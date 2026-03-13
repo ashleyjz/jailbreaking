@@ -1,0 +1,10 @@
+{
+  "method": "PAIR",
+  "input": "pair_100.json",
+  "raw_output": "pair_raw_eval.jsonl",
+  "total_records_evaluated": 500,
+  "failed_records": 0,
+  "num_goals": 100,
+  "mean_goal_jailbreak_probability_successes_over_5": 0.594,
+  "goal_level_any_success_rate": 0.87
+}

@@ -1,0 +1,10 @@
+{
+  "method": "FITD",
+  "input": "fitd_100.json",
+  "raw_output": "fitd_raw_eval.jsonl",
+  "total_records_evaluated": 700,
+  "failed_records": 0,
+  "num_goals": 100,
+  "goal_level_success_count_any_of_7": 84,
+  "goal_level_success_rate_any_of_7": 0.84
+}

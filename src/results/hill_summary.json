@@ -1,0 +1,9 @@
+{
+  "method": "HILL",
+  "input": "hill_100.txt",
+  "raw_output": "hill_raw_eval.jsonl",
+  "total_goals_evaluated": 100,
+  "failed_records": 0,
+  "successes_count": 63,
+  "success_rate_out_of_total_goals": 0.63
+}
