@@ -1,5 +1,8 @@
-# jailbreaking
+# Jailbreaking
 CS175 Project
+Team CheesySlug
+
+Members: Alan Yuen, Ashley Zhou, Mae King
 
 Libraries/Packages used:
 OS, Random, PyTorch, Numpy, Datasets, Json, Transformers, Cuda, Accelerate
